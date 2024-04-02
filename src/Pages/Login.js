@@ -6,7 +6,7 @@ export default function Login() {
           Create a new account
         </h2>
         <div className="mb-4">
-          <a href={"https://hiring.reachinbox.xyz/api/v1/auth/google-login?redirect_to=http://localhost:3000"} className="w-full bg-white rounded-md py-2 flex items-center justify-center text-sm font-semibold text-gray-800 cursor-pointer hover:bg-gray-100">
+          <a href={"https://hiring.reachinbox.xyz/api/v1/auth/google-login?redirect_to=https://outbox-frotnend.vercel.app/"} className="w-full bg-white rounded-md py-2 flex items-center justify-center text-sm font-semibold text-gray-800 cursor-pointer hover:bg-gray-100">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               x="0px"
